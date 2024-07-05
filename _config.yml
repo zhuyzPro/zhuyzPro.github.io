@@ -100,8 +100,8 @@ theme: ayer
 
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
-deploy: # 部署部分的设置
+deploy:
   type: git
-  repository: https://github.com/zhuyzPro/zhuyzPro.github.io.git
+  repo: https://github.com/zhuyzPro/zhuyzPro.github.io.git
   branch: master
   
